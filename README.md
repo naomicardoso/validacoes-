@@ -12,7 +12,7 @@ códigos:
 
 
 
- -CSS:  
+ - CSS:  
 
 
 ### explicação js
@@ -23,7 +23,7 @@ códigos:
 
 códigos:
 
- -HTML:  
+ - HTML:  
 
 
  - JS:  
